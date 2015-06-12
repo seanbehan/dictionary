@@ -6,7 +6,8 @@ http://www.gutenberg.org/ebooks/38538 - p2
 http://www.gutenberg.org/ebooks/38699 - p3
 http://www.gutenberg.org/ebooks/38700 - p4
 
-HTML
+You can download HTML yourself. But these files are in the ./data directory
+
 ```
 wget http://www.gutenberg.org/files/37683/37683-h/37683-h.htm
 wget http://www.gutenberg.org/files/38538/38538-h/38538-h.htm
