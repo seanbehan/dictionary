@@ -1,5 +1,3 @@
-from time import sleep
-import requests as r
 from lxml import html
 from glob import glob
 
